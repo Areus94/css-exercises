@@ -1,0 +1,19 @@
+.paragraphs {
+    background-color: #ea97a7;
+    font-family: "Verdana, DejaVu Sans", sans-serif;
+}
+
+#first_id {
+    color: blue;
+    font-size: 36px;
+}
+
+.paragraphs.cooler {
+    font-size: 24px;
+}
+
+#second_id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
